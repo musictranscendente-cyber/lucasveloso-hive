@@ -132,11 +132,11 @@
       <div class="cartao">
         <div class="campo">
           <label for="conta">Conta média por cliente <output id="contaTxt"></output></label>
-          <input type="range" id="conta" min="150" max="5000" step="50" value="400">
+          <input type="range" id="conta" min="150" max="5000" step="50" value="250">
         </div>
         <div class="campo">
           <label for="clientes">Número de clientes <output id="clientesTxt"></output></label>
-          <input type="range" id="clientes" min="5" max="500" step="5" value="50">
+          <input type="range" id="clientes" min="5" max="20000" step="5" value="500">
         </div>
         <div class="campo">
           <label for="pct">Comissão recorrente <output id="pctTxt"></output></label>
@@ -300,7 +300,7 @@
     const carteira = conta.value * clientes.value;
     const mensal = carteira * pct.value / 100;
     document.getElementById("contaTxt").textContent = reais(+conta.value);
-    document.getElementById("clientesTxt").textContent = clientes.value;
+    document.getElementById("clientesTxt").textContent = (+clientes.value).toLocaleString("pt-BR");
     document.getElementById("pctTxt").textContent = (+pct.value).toLocaleString("pt-BR") + "%";
     document.getElementById("carteira").textContent = reais(carteira);
     document.getElementById("mensal").textContent = reais(mensal);
