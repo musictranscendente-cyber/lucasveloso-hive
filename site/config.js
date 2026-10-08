@@ -3,7 +3,7 @@
 // ============================================================
 const CONFIG = {
   // Link oficial de simulação/cadastro de conta de energia (com o seu código de vendedor)
-  linkConta: "https://contaenergia.hiveglobal.com.br/?planId=d8fe77ecc3299e92&sellerId=RenataVeloso",
+  linkConta: "https://contaenergia.hiveglobal.com.br/?planId=22f5eae2411265ef&sellerId=RenataVeloso",
 
   // Link oficial de cadastro de novo licenciado
   linkLicenciado: "https://cadastrolicenciado.hiveglobal.com.br/RenataVeloso",
