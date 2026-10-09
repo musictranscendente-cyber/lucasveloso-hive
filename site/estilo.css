@@ -228,3 +228,11 @@ input[type="range"] { width: 100%; accent-color: var(--roxo); height: 28px; }
   .heroi .container { padding-top: 60px; padding-bottom: 60px; }
   .barra { font-size: .72rem; }
 }
+
+/* Vídeo explicativo */
+.video-caixa { max-width: 860px; margin: 48px auto 0; text-align: center; }
+.video-caixa video {
+  width: 100%; aspect-ratio: 16 / 9; display: block; background: var(--tinta);
+  border-radius: var(--raio); box-shadow: var(--sombra);
+}
+.video-caixa p { margin: 14px 0 0; color: var(--suave); font-size: .95rem; }
