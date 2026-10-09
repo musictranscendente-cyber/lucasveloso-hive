@@ -5,6 +5,7 @@
 - `site/config.js` — **links de cadastro e WhatsApp** (para trocar, edite só aqui)
 - `site/estilo.css` — cores e visual
 - `HIVE-BASE-DE-CONHECIMENTO.md` — tudo sobre a Hive: plano, descontos, objeções
+- `whatsapp/` — **disparo automático de WhatsApp** com mensagem personalizada pelo nome (veja `whatsapp/LEIA-ME.md`)
 
 ## Como editar pelo celular
 1. Abra o repositório no app do GitHub ou em github.com.

@@ -1,0 +1,9 @@
+{Oi|Olá|Oii}, {{nome}}! {Tudo bem?|Tudo certo por aí?|Como você está?} 😊
+
+{Aqui é o Lucas.|É o Lucas aqui.} {Estou trabalhando|Comecei a trabalhar} com a *Hive Energy*, que dá desconto na conta de luz usando energia de usinas solares — sem instalação, sem obra e sem custo nenhum pra você.
+
+{Quer que eu faça|Posso fazer} uma simulação de quanto você {economizaria|pode economizar}? É só me mandar uma foto da sua última conta de luz.
+
+{Dá uma olhada|Explico tudo} aqui: https://musictranscendente-cyber.github.io/lucasveloso-hive/
+
+_(Se preferir não receber mensagens, é só responder SAIR.)_
