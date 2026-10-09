@@ -1,9 +1,0 @@
-{Oi|Olá|E aí}, {{nome}}! {Tudo bem?|Tudo certo?|Como estão as coisas?} 😊
-
-{Aqui é o Lucas.|É o Lucas aqui.} {Lembrei de você|Pensei em você} {porque|pois} estou montando um time na *Hive*, uma empresa de energia solar por assinatura e bem-estar que acabou de chegar ao mercado.
-
-A ideia é simples: você indica pessoas para ter desconto na conta de luz e ganha uma renda recorrente todo mês em que elas pagam a conta.
-
-{Topa|Você topa} {conversar 10 minutinhos|uma conversa rápida} {essa semana|nos próximos dias}? {Deixei tudo explicado|Tem tudo explicado} aqui: https://musictranscendente-cyber.github.io/lucasveloso-hive/oportunidade.html
-
-_(Se preferir não receber mensagens, é só responder SAIR.)_
